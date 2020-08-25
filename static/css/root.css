@@ -1,0 +1,39 @@
+
+*{
+	font-family: 'Open Sans', sans-serif;
+	font-size:  15px;
+ }
+.footer{
+	background-color: black;
+	min-height:50px;
+	 background-size: cover;
+    background-position: center center;
+	padding-top:14px;
+}
+.jumbotron{
+	height:1100px;
+}
+.btn-primary{
+	width:100%;
+}
+.footer-text{
+	color:white;
+}
+.header1{
+	height:100px;
+}
+.nav{
+	font-size: 30px;
+}
+.input-group{
+	width:30%;
+}
+.row{
+	margin-top: 50px;
+}
+@media(max-width:1199px)
+{
+	*{
+		font-size:12px;
+	}
+}
